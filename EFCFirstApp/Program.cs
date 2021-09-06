@@ -4,7 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            CrudExample.Run();
+            //CrudExample.Run();
+            ManyToManyExample.Run();
         }
     }
 }
