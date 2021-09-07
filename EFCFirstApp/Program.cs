@@ -5,7 +5,8 @@
         public static void Main(string[] args)
         {
             //CrudExample.Run();
-            ManyToManyExample.Run();
+            //ManyToManyExample.Run();
+            _ = LinqExample.RunAsync();
         }
     }
 }
