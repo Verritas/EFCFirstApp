@@ -6,7 +6,8 @@
         {
             //CrudExample.Run();
             //ManyToManyExample.Run();
-            _ = LinqExample.RunAsync();
+            //_ = LinqExample.RunAsync();
+            SQLExample.Run();
         }
     }
 }
